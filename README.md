@@ -2,7 +2,7 @@
 
 - 👀 Tenho interesse em jogos, animes e programação
 - 📚 Eu estudo atualmente HTML, CSS e JavaScript
-- 🖥️ Atualmente trabalho como analista de sistema
+- 🖥️ Atualmente trabalho como analista de suporte
 - 📫 Entre em contato: contato.endrews.azevedo@gmail.com
 
 <div align="center">
