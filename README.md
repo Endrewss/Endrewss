@@ -1,9 +1,9 @@
 ## 👋 Olá! Eu sou o Endrews, atualmente estudo Análise e desenvolvimento de sistemas na Fatec de Praia Grande
 
-- 👀 Tenho interesse em jogos, animes e programação
-- 📚 Eu estudo atualmente HTML, CSS e JavaScript
-- 🖥️ Atualmente trabalho como analista de suporte
-- 📫 Entre em contato: contato.endrews.azevedo@gmail.com
+- 👀 Tenho interesse em jogos, animes e programação.
+- 📚 Eu estudo atualmente HTML, CSS e JavaScript.
+- 🖥️ Atualmente trabalho como Gestor de Tráfego.
+- 📫 Entre em contato: endrewsazevedo@gmail.com
 
 <div align="center">
   <a href="https://github.com/endrewss">
