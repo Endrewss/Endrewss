@@ -17,7 +17,7 @@
    <img align="center" alt="Endrewss-Ts" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
    <img align="center" alt="Endrewss-React" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.sv">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
    <img align="center" alt="Endrewss-Laravel" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
    <img align="center" alt="Endrewss-MySQL" height="30" width="40" 
