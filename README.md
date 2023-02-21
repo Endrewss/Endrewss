@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou o Endrews, atualmente estudo Análise e desenvolvimento de sistemas na Fatec de Praia Grande
 
 - 👀 Tenho interesse em jogos, animes e programação.
-- 📚 Eu estudo atualmente HTML, CSS e JavaScript.
-- 🖥️ Atualmente trabalho como Gestor de Tráfego.
+- 📚 Tenho conhecimento em JavaScript, TypeScipt, React, Laravel e MySQL.
+- 🖥️ Atualmente em busca da primeira oportunidade como Dev.
 - 📫 Entre em contato: endrewsazevedo@gmail.com
 
 <div align="center">
@@ -14,6 +14,14 @@
   <img align="center" alt="Endrewss-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Endrewss-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Endrewss-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Endrewss-Ts" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+   <img align="center" alt="Endrewss-React" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.sv">
+   <img align="center" alt="Endrewss-Laravel" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+   <img align="center" alt="Endrewss-MySQL" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="Endrewss-pic" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/5KeJnWZoBpcLTmQpMr/giphy.gif?cid=790b7611eb1ff12f84a1a8821015f38338e436666ef8eca4&rid=giphy.gif&ct=g">
 </div>
 
