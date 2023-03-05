@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Endrews, atualmente estudo Análise e desenvolvimento de sistemas na Fatec de Praia Grande
 
 - 👀 Tenho interesse em jogos, animes e programação.
-- 📚 Tenho conhecimento em JavaScript, TypeScipt, React, Laravel e MySQL.
+- 📚 Tenho conhecimento em JavaScript, TypeScipt, React, NodeJs, Laravel, MySQL, Java, C++ e Git.
 - 🖥️ Atualmente em busca da primeira oportunidade como Dev.
 - 📫 Entre em contato: endrewsazevedo@gmail.com
 
