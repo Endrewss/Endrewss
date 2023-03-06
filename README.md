@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238972&height=120&section=header"/>
+
 ## 👋 Olá! Eu sou o Endrews, atualmente estudo Análise e desenvolvimento de sistemas na Fatec de Praia Grande
 
 - 👀 Tenho interesse em jogos, animes e programação.
@@ -5,11 +7,15 @@
 - 🖥️ Atualmente em busca da primeira oportunidade como Dev.
 - 📫 Entre em contato: endrewsazevedo@gmail.com
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Endrews+Nunes+de+Azevedo;I'm+20+years+old;I+from+Brazil%2C+SP;I+analysis+and+systems+development+at+Fatec+Praia+Grande;Welcome!)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/endrewss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Endrewss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endrewss&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrewss&layout=compact&langs_count=10&theme=gotham&hide_border=true"/>
 </div>
+ 
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=endrewss&theme=gotham&hide_border=true)
 
 <div>
  <table>
@@ -97,3 +103,5 @@
   ![Snake animation](https://github.com/endrewss/endrewss/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238972&height=120&section=footer"/>
