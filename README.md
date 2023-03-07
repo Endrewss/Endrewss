@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/endrewss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrewss&layout=compact&langs_count=10&theme=gotham&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrewss&theme=gotham&hide_border=true&layout=compact&langs_count=10"/>
 </div>
  
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=endrewss&theme=gotham&hide_border=true)
