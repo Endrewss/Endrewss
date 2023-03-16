@@ -7,7 +7,7 @@
 - 🖥️ Atualmente em busca da primeira oportunidade como Dev.
 - 📫 Entre em contato: endrewsazevedo@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=YO,%2C+meu+nome+é+Endrews+Nunes+de+Azevedo;Tenho+20+Anos;Sou+so+Brasil%2C+SP;Eu+estudo+análise+e+desenvolvimento+de+sistemas;Na+Fatec+Praia+Grande;Bem-Vindo!)](https://github.com/endrewss)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=238972&center=true&vCenter=true&width=1000&lines=YO%2C+meu+nome+é+Endrews+Nunes+de+Azevedo;Tenho+20+Anos;Sou+do+Brasil%2C+SP;Eu+estudo+análise+e+desenvolvimento+de+sistemas;Na+Fatec+de+Praia+Grande;Bem-Vindo!)](https://github.com/endrewss)
 
 <div align="center">
   <a href="https://github.com/endrewss">
