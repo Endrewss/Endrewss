@@ -224,8 +224,8 @@
   <br><br><br>
 
   <h2 align="center">💻 &ensp; 𝒫𝑟𝑜𝑗𝑒𝑡𝑜𝑠</h2>
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliMjJkM2EzNjAwN2FmMDMxNjIwMDE5ZmVhNWU4ZmQzMmZiOTU1ZCZjdD1n/ZXhURDI2XRxICQ1Oyf/giphy.gif" weight="50px" height="300px" alt="programming_anime_gif">
-  <table height="299px">
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliMjJkM2EzNjAwN2FmMDMxNjIwMDE5ZmVhNWU4ZmQzMmZiOTU1ZCZjdD1n/ZXhURDI2XRxICQ1Oyf/giphy.gif" weight="50px" height="250px" alt="programming_anime_gif">
+  <table height="249px">
     <tr>
       <td>
       <a href="https://github.com/Endrewss/Landing-Page-Apresentacao" target="_blank">
