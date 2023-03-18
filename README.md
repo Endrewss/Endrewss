@@ -224,8 +224,8 @@
   <br><br><br>
 
   <h2 align="center">💻 &ensp; 𝒫𝑟𝑜𝑗𝑒𝑡𝑜𝑠</h2>
-  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliMjJkM2EzNjAwN2FmMDMxNjIwMDE5ZmVhNWU4ZmQzMmZiOTU1ZCZjdD1n/ZXhURDI2XRxICQ1Oyf/giphy.gif" weight="50px" height="250px" alt="programming_anime_gif">
-  <table height="249px">
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjliMjJkM2EzNjAwN2FmMDMxNjIwMDE5ZmVhNWU4ZmQzMmZiOTU1ZCZjdD1n/ZXhURDI2XRxICQ1Oyf/giphy.gif" weight="50px" height="200px" alt="programming_anime_gif">
+  <table height="199px">
     <tr>
       <td>
       <a href="https://github.com/Endrewss/Landing-Page-Apresentacao" target="_blank">
@@ -300,8 +300,8 @@
       <br/><br/>
       <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrewss&theme=gotham&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&custom_title=Linguagens%20mais%20usadas&cache_seconds=14400" />
       <div align="right">
-        <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-        <img height="203px" src="https://streak-stats.demolab.com?user=endrewss&theme=gotham&hide_border=true&locale=pt_BR" />
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+        <img height="200px" src="https://streak-stats.demolab.com?user=endrewss&theme=gotham&hide_border=true&locale=pt_BR" />
       </div>
       <br/>
       <!- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=endrewss&langs_count=10&theme=gotham&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" /> 
