@@ -301,7 +301,7 @@
       <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrewss&theme=gotham&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&custom_title=Linguagens%20mais%20usadas&cache_seconds=14400" />
       <div align="right">
         <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-        <img height="200px" src="https://streak-stats.demolab.com?user=endrewss&theme=gotham&hide_border=true&locale=pt_BR" />
+        <img height="199px" src="https://streak-stats.demolab.com?user=endrewss&theme=gotham&hide_border=true&locale=pt_BR" />
       </div>
       <br/>
       <!- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=endrewss&langs_count=10&theme=gotham&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" /> 
