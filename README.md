@@ -305,11 +305,9 @@
       </div>
       <br/>
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=endrewss&langs_count=10&theme=gotham&hide_border=true&custom_title=Tempo%20Programando&cache_seconds=14400" /> 
+      <img align="center" src="https://github.com/endrewss/endrewss/blob/output/github-contribution-grid-snake.svg" />
     </details>
   <br>
-  
-![Snake animation](https://github.com/endrewss/endrewss/blob/output/github-contribution-grid-snake.svg)
-
   <img align="left" width="550px" height="100px" src="https://reporoster.com/stars/dark/endrewss/endrewss" /> 
   <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=endrewss&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="numero_de_visitantes" height="40px" />
   
