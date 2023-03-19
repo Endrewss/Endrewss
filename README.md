@@ -298,9 +298,9 @@
       <br/>
       <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=endrewss&theme=gotham&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Atividades" />
       <br/><br/>
-      <img align="left" height="415px" src="https://github-readme-stats-endrewss.vercel.app/api/top-langs/?username=Endrewss&theme=gotham&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&custom_title=Linguagens%20mais%20usadas&cache_seconds=14400" />
+      <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrewss&theme=gotham&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&custom_title=Linguagens%20mais%20usadas&cache_seconds=14400" />
       <div align="right">
-        <img height="200px" src="https://github-readme-stats-endrewss.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Endrewss&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
         <img height="190px" src="https://streak-stats.demolab.com?user=endrewss&theme=gotham&hide_border=true&locale=pt_BR" />
       </div>
       <br/>
