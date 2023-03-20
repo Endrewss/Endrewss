@@ -304,7 +304,7 @@
         <img height="190px" src="https://streak-stats.demolab.com?user=endrewss&theme=gotham&hide_border=true&locale=pt_BR" />
       </div>
       <br/>
-      <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/wakatime?username=endrewss&langs_count=10&theme=gotham&hide_border=true&custom_title=Tempo%20Programando&cache_seconds=14400" /> 
+      <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/wakatime?username=endrewss&langs_count=8&theme=gotham&hide_border=true&custom_title=Tempo%20Programando&cache_seconds=14400" /> 
       <img align="center" src="https://github.com/endrewss/endrewss/blob/output/github-contribution-grid-snake.svg" />
     </details>
   <br>
