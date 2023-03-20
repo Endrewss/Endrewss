@@ -14,7 +14,7 @@
       <li>🤩️ Amo Xadrez, Programação, Animes, Café, Dança e Me cuidar.</li>
       <li>💻 Estudo na <a href="https://fatecpg.edu.br/" target="_blank">Fatec de Praia Grande</a>, já fiz cursos na <a href="https://www.alura.com.br/" target="_blank">Alura</a>, <a href="https://www.dio.me/" target="_blank">Dio<a/>, <a href="https://www.udemy.com/pt/" target="_blank">Udemy</a>, <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, <a href="https://www.oracle.com/br/" target="_blank">Oracle<a/> e <a href="https://www.scrumstudy.com/portuguese" target="_blank">ScrumStudy</a>.</li>
       <li>🔭 Não possuo <b>experiência</b>, porém tenho conhecimento em diversas das tecnologias Front-end e Back-end relevantes do mercado.</li>
-      <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end, pois pretendo a longo prazo me tornar Full-Stack.</li>
+      <li>🔮 Estou me especializando em Front-end, mas tenho noções de Back-end, porque pretendo a longo prazo me tornar Full-Stack.</li>
       <li>🚀 Evoluindo exponencialmente em <strong>ReactJS</strong> e em suas funcionalidades.</li>
       <li>⚡ Fatos engraçados: Eu tomo café sem açucar e devido a meu autocuidado um dos meus apelidos é princesa.</li>
   </ul>
@@ -308,7 +308,7 @@
       <img align="center" src="https://github.com/endrewss/endrewss/blob/output/github-contribution-grid-snake.svg" />
     </details>
   <br>
-  <img align="left" src="https://reporoster.com/stars/dark/endrewss/endrewss" /> 
+  <img align="left" heigth="100px" width="500px" src="https://reporoster.com/stars/dark/endrewss/endrewss" /> 
   <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=endrewss&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="numero_de_visitantes" height="40px" />
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ba888&height=120&section=footer"/> 
