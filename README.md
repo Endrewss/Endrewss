@@ -304,11 +304,11 @@
         <img height="190px" src="https://streak-stats.demolab.com?user=endrewss&theme=gotham&hide_border=true&locale=pt_BR" />
       </div>
       <br/>
-      <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/wakatime?username=endrewss&langs_count=10&theme=gotham&hide_border=true&custom_title=Tempo%20Programando&cache_seconds=14400" /> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=endrewss&langs_count=10&theme=gotham&hide_border=true&custom_title=Tempo%20Programando&cache_seconds=14400" /> 
       <img align="center" src="https://github.com/endrewss/endrewss/blob/output/github-contribution-grid-snake.svg" />
     </details>
   <br>
-  <img align="left" width="550px" height="100px" src="https://reporoster.com/stars/dark/endrewss/endrewss" /> 
+  <img align="left" src="https://reporoster.com/stars/dark/endrewss/endrewss" /> 
   <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=endrewss&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="numero_de_visitantes" height="40px" />
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ba888&height=120&section=footer"/> 
