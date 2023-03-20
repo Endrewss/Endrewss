@@ -229,63 +229,63 @@
     <tr>
       <td>
       <a href="https://github.com/Endrewss/Landing-Page-Apresentacao" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=Landing-Page-Apresentacao&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=Landing-Page-Apresentacao&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
       </a>
       </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Endrewss/ToDoList-TypeScript" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=ToDoList-TypeScript&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=ToDoList-TypeScript&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
       </a>
       </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Endrewss/ToDoList-JavaScript" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=ToDoList-JavaScript&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=ToDoList-JavaScript&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
     </a>
       </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Endrewss/Laravel-C.R.U.D" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=Laravel-C.R.U.D&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=Laravel-C.R.U.D&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
     </a>
       </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Endrewss/JavaScript-Academico" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=JavaScript-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=JavaScript-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
     </a>
       </td>
     </tr>
     <tr>
       <td>
        <a href="https://github.com/Endrewss/Java-Academico" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=Java-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=Java-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
       </a>
       </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Endrewss/POO-Academico" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=POO-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=POO-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
       </a>
       </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Endrewss/Cplusplus-Academico" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=Cplusplus-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=Cplusplus-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
       </a>
       </td>
     </tr>
     <tr>
       <td>
       <a href="https://github.com/Endrewss/Banco-de-Dados-Academico" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=endrewss&repo=Banco-de-Dados-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
+        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/pin?username=endrewss&repo=Banco-de-Dados-Academico&theme=gotham&hide_border=true&show_icons=true&cache_seconds=14400">
       </a>
       </td>
     </tr>
