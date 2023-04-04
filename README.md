@@ -296,7 +296,7 @@
     <details open>
       <summary>📊 &ensp; 𝒜𝑡𝑖𝑣𝑖𝑎𝑑𝑒</summary>
       <br/>
-      <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=endrewss&theme=gotham&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Atividades" />
+      <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=endrewss&theme=gotham&show_icons=true&hide_border=true&custom_title=Grafico%20de%20Atividades" />
       <br/><br/>
       <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrewss&theme=gotham&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&custom_title=Linguagens%20mais%20usadas&cache_seconds=14400" />
       <div align="right">
