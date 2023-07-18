@@ -309,6 +309,6 @@
     </details>
   <br>
   <a href="https://github.com/Endrewss/Endrewss/stargazers" target="_blank"> <img align="left" heigth="100px" width="500px" src="https://reporoster.com/stars/dark/endrewss/endrewss" /> </a> 
-  <img align="right" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=endrewss&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="numero_de_visitantes" height="40px" />
+  <img align="right" src="https://visitor-badge.feriirawann.repl.co?username=endrewss&repo=https://github.com/Endrewss/Endrewss&label=VISITANTES&color=%232BA888&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=97cdcb&color=2ba888" alt="numero_de_visitantes" height="40px" />
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2ba888&height=120&section=footer"/> 
